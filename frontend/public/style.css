@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://mlo5mt038p09.i.optimole.com/S0A5oJA-3MuXi2Ej/w:1417/h:1417/q:auto/https://www.thepizzaboys.com.au/wp-content/uploads/2021/07/PizzaBoys-01.png');
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+    display: flexbox;
+
+
+}
+
+#content {
+    word-wrap: break-word;
+    min-width: 100px;
+    max-width: 95vw;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+
+    background-color: rgba(240, 240, 240, 0.5);
+    border-radius: 10px;
+}
+
+img {
+    size-adjust: 200%;
+}

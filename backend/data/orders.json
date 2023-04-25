@@ -1,0 +1,744 @@
+{
+  "1": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 1
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Ham": {
+        "pizzaId": "4",
+        "sizes": [
+          {
+            "32cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "14",
+      "minute": "49"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "asd",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "2": {
+    "pizzas": {
+      "Ham": {
+        "pizzaId": "4",
+        "sizes": [
+          {
+            "32cm": 14
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Salami": {
+        "pizzaId": "3",
+        "sizes": [
+          {
+            "32cm": 2
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Best": {
+        "pizzaId": "6",
+        "sizes": [
+          {
+            "32cm": 0
+          }
+        ]
+      },
+      "Ananas": {
+        "pizzaId": "5",
+        "sizes": [
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Songoku": {
+        "pizzaId": "2",
+        "sizes": [
+          {
+            "32cm": 1
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "15",
+      "minute": "02"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "3": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 4
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Ananas": {
+        "pizzaId": "5",
+        "sizes": [
+          {
+            "32cm": 5
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "16",
+      "minute": "01"
+    },
+    "costumer": {
+      "name": "aS",
+      "email": "ASD",
+      "address": {
+        "city": "ASD",
+        "street": "ASD"
+      }
+    }
+  },
+  "4": {
+    "pizzas": {
+      "Ham": {
+        "pizzaId": "4",
+        "sizes": [
+          {
+            "32cm": 19
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "16",
+      "minute": "08"
+    },
+    "costumer": {
+      "name": "asd1",
+      "email": "asd2",
+      "address": {
+        "city": "asd3",
+        "street": "asd4"
+      }
+    }
+  },
+  "5": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "45cm": 3
+          }
+        ]
+      },
+      "Salami": {
+        "pizzaId": "3",
+        "sizes": [
+          {
+            "32cm": 2
+          },
+          {
+            "45cm": 2
+          }
+        ]
+      },
+      "Hawaii": {
+        "pizzaId": "5",
+        "sizes": []
+      },
+      "Varanus": {
+        "pizzaId": "7",
+        "sizes": []
+      },
+      "Songoku": {
+        "pizzaId": "2",
+        "sizes": []
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "31"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "asd",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "6": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "45cm": 3
+          }
+        ]
+      },
+      "Salami": {
+        "pizzaId": "3",
+        "sizes": [
+          {
+            "32cm": 2
+          },
+          {
+            "45cm": 2
+          }
+        ]
+      },
+      "Hawaii": {
+        "pizzaId": "5",
+        "sizes": []
+      },
+      "Varanus": {
+        "pizzaId": "7",
+        "sizes": []
+      },
+      "Songoku": {
+        "pizzaId": "2",
+        "sizes": []
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "31"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "asd",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "7": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 10
+          },
+          {
+            "45cm": 10
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "32"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "asd",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "8": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 10
+          },
+          {
+            "45cm": 10
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "32"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "asd",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "9": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Songoku": {
+        "pizzaId": "2",
+        "sizes": [
+          {
+            "32cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "34"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "10": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Songoku": {
+        "pizzaId": "2",
+        "sizes": [
+          {
+            "32cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "35"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "11": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 10
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "36"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "12": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 1
+          },
+          {
+            "45cm": 1
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "36"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "13": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": []
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "36"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "14": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 1
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Songoku": {
+        "pizzaId": "2",
+        "sizes": [
+          {
+            "32cm": 0
+          },
+          {
+            "45cm": 2
+          }
+        ]
+      },
+      "Salami": {
+        "pizzaId": "3",
+        "sizes": [
+          {
+            "32cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "43"
+    },
+    "costumer": {
+      "name": "Asd",
+      "email": "ASD",
+      "address": {
+        "city": "AASD",
+        "street": "ASD"
+      }
+    }
+  },
+  "15": {
+    "pizzas": {
+      "Hawaii": {
+        "pizzaId": "5",
+        "sizes": [
+          {
+            "32cm": 20
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Best": {
+        "pizzaId": "6",
+        "sizes": [
+          {
+            "32cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "50"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "ASD",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "16": {
+    "pizzas": {
+      "Hawaii": {
+        "pizzaId": "5",
+        "sizes": [
+          {
+            "32cm": 10
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Best": {
+        "pizzaId": "6",
+        "sizes": [
+          {
+            "45cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minute": "57"
+    },
+    "costumer": {
+      "name": "asd",
+      "email": "asd",
+      "address": {
+        "city": "asd",
+        "street": "asd"
+      }
+    }
+  },
+  "17": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 10
+          },
+          {
+            "45cm": 2,
+            "32cm": null
+          }
+        ]
+      },
+      "Best": {
+        "pizzaId": "6",
+        "sizes": [
+          {
+            "32cm": 1
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Ham": {
+        "pizzaId": "4",
+        "sizes": [
+          {
+            "32cm": 1
+          },
+          {
+            "45cm": 1
+          }
+        ]
+      },
+      "Salami": {
+        "pizzaId": "3",
+        "sizes": [
+          {
+            "32cm": 11
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Ananas": {
+        "pizzaId": "5",
+        "sizes": [
+          {
+            "32cm": 2
+          },
+          {
+            "45cm": 1
+          }
+        ]
+      },
+      "Varanus": {
+        "pizzaId": "7",
+        "sizes": [
+          {
+            "32cm": 2
+          },
+          {
+            "45cm": 1
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "14",
+      "hour": "09",
+      "minute": "10"
+    },
+    "costumer": {
+      "name": "",
+      "email": "",
+      "address": {
+        "city": "",
+        "street": ""
+      }
+    }
+  },
+  "18": {
+    "pizzas": {
+      "Marinara": {
+        "pizzaId": "1",
+        "sizes": [
+          {
+            "32cm": 4
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      },
+      "Varanus": {
+        "pizzaId": "7",
+        "sizes": [
+          {
+            "32cm": 2
+          },
+          {
+            "45cm": 0
+          }
+        ]
+      }
+    },
+    "date": {
+      "year": "2022",
+      "month": "10",
+      "day": "22",
+      "hour": "18",
+      "minute": "48"
+    },
+    "costumer": {
+      "name": "Dömötör Dávid",
+      "email": "dd19900618@gmail.com",
+      "address": {
+        "city": "Budapest, XIX. kerület",
+        "street": "Eötvös utca"
+      }
+    }
+  }
+}

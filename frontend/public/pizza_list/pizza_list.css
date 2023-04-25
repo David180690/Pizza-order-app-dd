@@ -1,0 +1,78 @@
+body {
+    background-image: url('https://images.getbento.com/accounts/ddff498b60797742e20795852186a8ea/media/images/9490pizza_moto.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    display: flexbox;
+    width: 100vw;
+}
+
+#root {
+    width: 100vw;
+}
+
+#container > button {
+    margin: 0px;
+    width: 130px;
+    height: 60px;
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black;
+    font-size: 15px;
+    border-style: hidden;
+    opacity: 60%;
+    background-blend-mode: color-burn;
+}
+
+button {
+    margin: 15px;
+    width: 130px;
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black;
+    font-size: 15px;
+}
+
+#pizza-list {
+    background-color: rgba(0, 0, 0, 0.6);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.list-member {
+    margin: 2rem;
+}
+
+.pizza > h2 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.pizza > h3 {
+    font-size: 28px;
+}
+
+.pizza > h4 {
+    font-size: 28px;
+}
+
+#go-to-basket > h5 {
+    font-size: 28px;
+}
+
+#filter-by-allergens {
+    font-size: 26px;
+}
+
+.add-to-basket-form > span, input, button {
+    font-size: 22px;
+}
+
+#go-to-basket {
+    text-align: center;
+}
+
+#go-to-basket-button {
+    color: cyan;
+}

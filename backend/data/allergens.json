@@ -1,0 +1,32 @@
+{
+  "Allergens": [
+    {
+      "id": 1,
+      "name": "gluten"
+    },
+    {
+      "id": 2,
+      "name": "pineapple"
+    },
+    {
+      "id": 3,
+      "name": "tree nuts"
+    },
+    {
+      "id": 4,
+      "name": "evil nuts"
+    },
+    {
+      "id": 5,
+      "name": "celery"
+    },
+    {
+      "id": 6,
+      "name": "eggs"
+    },
+    {
+      "id": 7,
+      "name": "soya"
+    }
+  ]
+}
